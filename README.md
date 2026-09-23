@@ -3,16 +3,17 @@
   
 # 📺 TV-GO<br><br>🎖🎖🎖🎖🎖<br><br>个人收藏开源电视观影资源，所有资源均来自网友无私分享<br>
 
-![星标](https://img.shields.io/github/stars/saivin/TV-GO?style=for-the-badge&logo=github&color=brightgreen&label=星标)
-![复刻](https://img.shields.io/github/forks/saivin/TV-GO?style=for-the-badge&logo=github&color=blue&label=复刻)
-![议题](https://img.shields.io/github/issues/saivin/TV-GO?style=for-the-badge&logo=github&color=orange&label=议题)
+![星标](https://img.shields.io/badge/星标-27k-brightgreen?style=for-the-badge&logo=github)
+![复刻](https://img.shields.io/badge/复刻-1.7k-blue?style=for-the-badge&logo=github)
+![议题](https://img.shields.io/badge/议题-12-orange?style=for-the-badge&logo=github)
 
-![许可证](https://img.shields.io/github/license/saivin/TV-GO?style=for-the-badge&color=purple&label=许可证)
-![版本](https://img.shields.io/github/v/release/saivin/TV-GO?style=for-the-badge&logo=github&color=red&label=版本)
-![最后提交](https://img.shields.io/github/last-commit/saivin/TV-GO?style=for-the-badge&logo=github&color=yellow&label=最后提交)
+![许可证](https://img.shields.io/badge/许可证-GPL--3.0-purple?style=for-the-badge)
+![版本](https://img.shields.io/badge/版本-v3.1.0-red?style=for-the-badge&logo=github)
+![平台](https://img.shields.io/badge/平台-Android_|_Windows_|_iOS-green?style=for-the-badge&logo=android)
 
-![仓库大小](https://img.shields.io/github/repo-size/saivin/TV-GO?style=for-the-badge&color=informational&label=仓库大小)
-![贡献者](https://img.shields.io/github/contributors/saivin/TV-GO?style=for-the-badge&logo=github&color=success&label=贡献者)
+![语言](https://img.shields.io/badge/语言-中文-ff69b4?style=for-the-badge)
+![状态](https://img.shields.io/badge/状态-持续更新-success?style=for-the-badge)
+
 </div>
 
 
