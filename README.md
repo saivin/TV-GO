@@ -2,6 +2,7 @@
 <div align="center">
   
 # 📺 TV-GO<br><br>🎖🎖🎖🎖🎖<br><br>个人收藏开源电视观影资源，所有资源均来自网友无私分享<br>
+
 ![星标](https://img.shields.io/github/stars/saivin/TV-GO?style=for-the-badge&logo=github&color=brightgreen&label=星标)
 ![复刻](https://img.shields.io/github/forks/saivin/TV-GO?style=for-the-badge&logo=github&color=blue&label=复刻)
 ![议题](https://img.shields.io/github/issues/saivin/TV-GO?style=for-the-badge&logo=github&color=orange&label=议题)
