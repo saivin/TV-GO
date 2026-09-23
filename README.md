@@ -1,4 +1,17 @@
-# <div align="center">TV-GO<br><br>🎖🎖🎖🎖🎖<br><br>个人收藏开源电视观影资源，所有资源均来自网友无私分享<br><br></div> 
+
+<div align="center">
+  
+# 📺 TV-GO<br><br>🎖🎖🎖🎖🎖<br><br>个人收藏开源电视观影资源，所有资源均来自网友无私分享<br>
+![Stars](https://img.shields.io/github/stars/saivin/TV-GO?style=for-the-badge&logo=github&color=brightgreen)
+![Forks](https://img.shields.io/github/forks/saivin/TV-GO?style=for-the-badge&logo=github&color=blue)
+![Issues](https://img.shields.io/github/issues/saivin/TV-GO?style=for-the-badge&logo=github&color=orange)
+![License](https://img.shields.io/github/license/saivin/TV-GO?style=for-the-badge&color=purple)
+![Release](https://img.shields.io/github/v/release/saivin/TV-GO?style=for-the-badge&logo=github&color=red)
+![Last Commit](https://img.shields.io/github/last-commit/saivin/TV-GO?style=for-the-badge&logo=github&color=yellow)
+![Repo Size](https://img.shields.io/github/repo-size/saivin/TV-GO?style=for-the-badge&color=informational)
+![Contributors](https://img.shields.io/github/contributors/saivin/TV-GO?style=for-the-badge&logo=github&color=success)
+
+</div>
 
 
 ## 订阅源  
